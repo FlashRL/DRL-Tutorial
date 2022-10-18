@@ -6,9 +6,9 @@
 
 ## Summarize
 
-<font size=5>
+<font size=1>
 
-| Index       |  Algorithm  | Authors     | Puplication | Code        | Classification | Features    | Detailed    |
+| Index       |  Algorithm  | Authors     | Publication | Code        | Classification | Features    | Detailed    |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1⃣️ | Temporal difference (TD) learning | Tesauro, G. | [Communications of the ACM](https://dl.acm.org/doi/abs/10.1145/203330.203343) | / | Cornerstone | TBD |
 | 2⃣️ | Q-learning | Watkins, C. J. et al. | [Machine Learning](https://link.springer.com/article/10.1007/BF00992698) | / | / | Q Table | TBD |
