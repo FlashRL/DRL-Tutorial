@@ -26,6 +26,7 @@
 | Hindsight Experience Replay (**HER**) | Andrychowicz, M. et al. | [NeurIPS 2017](https://proceedings.neurips.cc/paper/2017/hash/453fadbd8a1a3af50a9df4df899537b5-Abstract.html) | TBD | Replay | TBD | TBD |
 | Proximal Policy Optimization (**PPO**) | Schulman, J. et al. | [arXiv 2017](https://arxiv.org/abs/1707.06347) | TBD | Policy | TBD | TBD |
 | Multi-Agent DDPG (**MADDPG**) | Lowe, R. et al. | [NeurIPS 2017] | TBD | MADRL | TBD | TBD |
+| Hierarchical Reinforcement Learning (**HRL**) | Vezhnevets, A.S. et al. | [ICML 2017](http://proceedings.mlr.press/v70/vezhnevets17a.html) | TBD | HRL | TBD | TBD |
 | Twin Delayed DDPG (**TD3**) | Fujimoto, S. et al. | [ICML 2018](https://proceedings.mlr.press/v80/fujimoto18a.html) | TBD | AC | TBD | TBD |
 | Soft Actor-Critic (**SAC**) | Haarnoja, T. et al. | [ICML 2019](https://proceedings.mlr.press/v80/haarnoja18b) | TBD | AC | TBD | TBD |
 | ----------- | ----------- | ----------- | TBD | TBD | TBD | TBD |
