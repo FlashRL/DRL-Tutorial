@@ -19,6 +19,7 @@
 | Q-Learning | Watkins, C. J. et al. | [Machine Learning 1992](https://link.springer.com/article/10.1007/BF00992698) | / | / | Q Table | TBD |
 | Deep Q-Networks (**DQN**) | Mnih, V. et al. | [Nature 2015](https://www.nature.com/articles/nature14236) | [PyTorch](https://github.com/gordicaleksa/pytorch-learn-reinforcement-learning) | Q Networks | Deep network + Q-learning | TBD |
 | Deep Deterministic Policy Gradient (**DDPG**) | Lillicrap, T.P. et al. | [arXiv 2015](https://arxiv.org/abs/1509.02971) | TBD | AC | Continuous control | TBD |
+| Trust Region Policy Optimization (**TRPO**) | Schulman, J. et al. | [ICML 2015](https://proceedings.mlr.press/v37/schulman15.html) | TBD | Policy | TBD | TBD |
 | Prioritized Experience Replay (**PER**) | Schaul, T. et al. | [arXiv 2015](https://arxiv.org/abs/1511.05952) | TBD | Replay | TBD | TBD |
 | Deep Recurrent Q-Network (**DRQN**) | Hausknecht, M. et al. | [AAAI 2015](https://www.aaai.org/ocs/index.php/FSS/FSS15/paper/viewPaper/11673) | TBD | Q Networks | TBD | TBD |
 | Monte-Carlo Tree Search (**MCTS**) | Silver, D. et al. | [Nature 2016](https://www.nature.com/articles/nature16961%7D) | TBD | TBD | TBD | TBD |
