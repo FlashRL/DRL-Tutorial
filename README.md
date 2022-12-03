@@ -20,3 +20,4 @@
 | Deep Q-Networks (**DQN**) | Mnih, V. et al. | [Nature 2015](https://www.nature.com/articles/nature14236) | [PyTorch](https://github.com/gordicaleksa/pytorch-learn-reinforcement-learning) | TBD | Deep network + Q-learning | TBD |
 | Asynchronous Advantage Actor-Critic (**A3C**) | Mnih, V. et al. | [ICML 2016](http://proceedings.mlr.press/v48/mniha16.html?ref=https://githubhelp.com) | TBD | AC | TBD | TBD |
 | Hindsight Experience Replay (**HER**) | Andrychowicz, M. et al. | [NIPS 2017](https://proceedings.neurips.cc/paper/2017/hash/453fadbd8a1a3af50a9df4df899537b5-Abstract.html) | TBD | Replay | TBD | TBD |
+| Proximal Policy Optimization (**PPO**) | Schulman, J. et al. | [arXiv 2017](https://arxiv.org/abs/1707.06347) | TBD | Policy | TBD | TBD |
