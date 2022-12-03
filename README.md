@@ -25,6 +25,7 @@
 | Double DQN | Van Hasselt, H. et al. | [AAAI 2016](https://ojs.aaai.org/index.php/AAAI/article/view/10295) | TBD | Q Networks | TBD | TBD |
 | Dueling DQN | Wang, Z. et al. | [ICML 2016](http://proceedings.mlr.press/v48/wangf16.html) | TBD | Q Networks | TBD | TBD |
 | Asynchronous Advantage Actor-Critic (**A3C**) | Mnih, V. et al. | [ICML 2016](http://proceedings.mlr.press/v48/mniha16.html?ref=https://githubhelp.com) | TBD | AC | TBD | TBD |
+| Noise Networks | Fortunato, M. et al. | [arXiv 2017](https://arxiv.org/abs/1706.10295) | TBD | Exploration | TBD | TBD |
 | Hindsight Experience Replay (**HER**) | Andrychowicz, M. et al. | [NeurIPS 2017](https://proceedings.neurips.cc/paper/2017/hash/453fadbd8a1a3af50a9df4df899537b5-Abstract.html) | TBD | Replay | TBD | TBD |
 | Distributional DQN | Bellemare, M.G. et al. | [ICML 2017](https://proceedings.mlr.press/v70/bellemare17a.html) | TBD | Q Networks | TBD | TBD |
 | Proximal Policy Optimization (**PPO**) | Schulman, J. et al. | [arXiv 2017](https://arxiv.org/abs/1707.06347) | TBD | Policy | TBD | TBD |
