@@ -19,6 +19,7 @@
 | Q-Learning | Watkins, C. J. et al. | [Machine Learning 1992](https://link.springer.com/article/10.1007/BF00992698) | / | / | Q Table | TBD |
 | Deep Q-Networks (**DQN**) | Mnih, V. et al. | [Nature 2015](https://www.nature.com/articles/nature14236) | [PyTorch](https://github.com/gordicaleksa/pytorch-learn-reinforcement-learning) | Q Networks | Deep network + Q-learning | TBD |
 | Deep Deterministic Policy Gradient (**DDPG**) | Lillicrap, T.P. et al. | [arXiv 2015](https://arxiv.org/abs/1509.02971) | TBD | AC | Continuous control | TBD |
+| Prioritized Experience Replay (**PER**) | Schaul, T. et al. | [arXiv 2015](https://arxiv.org/abs/1511.05952) | TBD | Replay | TBD | TBD |
 | Double DQN | Van Hasselt, H. et al. | [AAAI 2016](https://ojs.aaai.org/index.php/AAAI/article/view/10295) | TBD | Q Networks | TBD | TBD |
 | Dueling DQN | Wang, Z. et al. | [ICML 2016](http://proceedings.mlr.press/v48/wangf16.html) | TBD | Q Networks | TBD | TBD |
 | Asynchronous Advantage Actor-Critic (**A3C**) | Mnih, V. et al. | [ICML 2016](http://proceedings.mlr.press/v48/mniha16.html?ref=https://githubhelp.com) | TBD | AC | TBD | TBD |
